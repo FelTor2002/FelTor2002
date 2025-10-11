@@ -4,17 +4,15 @@
 Apasionado por el código, el diseño y la creación de experiencias digitales únicas.
 
 ##  Tecnologías
-- HTML | CSS | JavaScript | TypeScript | Angular
-- Git | GitHub | Responsive Design | REST APIs
+- HTML | CSS | JavaScript | TypeScript  
+- Actualmente aprendiendo **Angular**
 
 ##  Sobre mí
-Me interesa el desarrollo frontend centrado en la usabilidad y el diseño funcional.  
-Busco mejorar constantemente mis habilidades y aprender nuevas tecnologías.
+Me encuentro en proceso de formación como desarrollador frontend.  
+Me gusta aprender nuevas tecnologías y mejorar cada día mis habilidades de desarrollo y diseño web.
 
 ##  Contacto
--  [LinkedIn](https://www.linkedin.com/)  
--  felipetorres@example.com  
--  [Portafolio](https://tuportafolio.com) _(si tienes uno)_
+-  **felipetorres200216@gmail.com**
 
 ---
 
