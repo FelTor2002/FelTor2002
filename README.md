@@ -1,16 +1,21 @@
-## Hi there 👋
+#  Hola, soy Felipe Torres
 
-<!--
-**FelTor2002/FelTor2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Frontend Trainee Developer**  
+Apasionado por el código, el diseño y la creación de experiencias digitales únicas.
 
-Here are some ideas to get you started:
+##  Tecnologías
+- HTML | CSS | JavaScript | TypeScript | Angular
+- Git | GitHub | Responsive Design | REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Sobre mí
+Me interesa el desarrollo frontend centrado en la usabilidad y el diseño funcional.  
+Busco mejorar constantemente mis habilidades y aprender nuevas tecnologías.
+
+##  Contacto
+-  [LinkedIn](https://www.linkedin.com/)  
+-  felipetorres@example.com  
+-  [Portafolio](https://tuportafolio.com) _(si tienes uno)_
+
+---
+
+ *Gracias por visitar mi perfil.*
