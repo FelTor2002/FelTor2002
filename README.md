@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/FelTor2002/FelTor2002">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=60&duration=3500&pause=1000&color=22C55E&lines=Frontend+Developer+en+formaci%C3%B3n;Interesado+en+Data+Analytics+y+UX;Construyendo+soluciones+digitales+modernas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=60&duration=3500&pause=1000&color=22C55E&lines=Training+-+Junior+Developer;Interesado+en+Data+Analytics+y+UX;Construyendo+soluciones+digitales+modernas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador en formación con interés en la creación de interfaces web modernas, responsivas y centradas en el usuario.
+Soy un **Training - Junior Developer** con interés en la creación de interfaces web modernas, responsivas y centradas en el usuario.
 
-Actualmente estoy fortaleciendo mis habilidades en desarrollo frontend mientras complemento mi perfil con conocimientos en análisis de datos, visualización de información y buenas prácticas de diseño UI/UX.
+Actualmente estoy consolidando mis habilidades en desarrollo frontend mientras complemento mi perfil con conocimientos en análisis de datos, visualización de información y buenas prácticas de diseño UI/UX.
 
 Me interesa construir productos digitales útiles, claros y eficientes, combinando tecnología, experiencia de usuario y aprendizaje continuo.
 
@@ -31,10 +31,10 @@ Me interesa construir productos digitales útiles, claros y eficientes, combinan
 ## 💼 Enfoque profesional
 
 - 💻 Desarrollo frontend con bases sólidas en HTML, CSS, JavaScript y TypeScript
-- 🌱 Aprendiendo Angular y fortaleciendo arquitectura de aplicaciones web
+- 🌱 Trabajo con Angular y sigo fortaleciendo arquitectura de aplicaciones web
 - 📊 Interés en Data Analytics, visualización de datos y soluciones orientadas a información
 - 🎯 Enfocado en crear experiencias digitales funcionales, limpias y escalables
-- 📚 En aprendizaje continuo para crecer como desarrollador y aportar valor en proyectos reales
+- 📚 En mejora continua para crecer como desarrollador y aportar valor en proyectos reales
 
 ---
 
@@ -51,9 +51,9 @@ Me interesa construir productos digitales útiles, claros y eficientes, combinan
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github logo" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="32" alt="angular logo" />
 </div>
 
 ### Tecnologías y herramientas
@@ -61,7 +61,7 @@ Me interesa construir productos digitales útiles, claros y eficientes, combinan
 | Categoría | Tecnologías |
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript, TypeScript |
-| **Frameworks / En aprendizaje** | Angular |
+| **Frameworks** | Angular |
 | **Herramientas** | Git, GitHub |
 | **Data & Analytics** | Análisis de datos, Visualización de datos, Big Data, Data Science |
 | **Enfoque** | UI/UX, diseño responsivo, productos digitales orientados a usuario |
