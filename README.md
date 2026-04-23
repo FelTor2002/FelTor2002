@@ -1,70 +1,115 @@
-# ¡Hola, soy Felipe Torres! 👋
+<h1 align="center">Hola, soy Felipe Torres 👋</h1>
 
-### Frontend Developer en formación | Apasionado por Data Analytics y soluciones digitales inteligentes
+<p align="center">
+  <a href="https://github.com/FelTor2002/FelTor2002">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=60&duration=3500&pause=1000&color=22C55E&lines=Frontend+Developer+en+formaci%C3%B3n;Interesado+en+Data+Analytics+y+UX;Construyendo+soluciones+digitales+modernas" alt="Typing SVG" />
+  </a>
+</p>
 
-Me interesa construir interfaces modernas, responsivas y centradas en el usuario, combinando desarrollo frontend con análisis de datos para crear productos más útiles, eficientes y orientados a la toma de decisiones.
+<p align="center">
+  <a href="https://github.com/FelTor2002?tab=repositories">Proyectos</a>
+  •
+  <a href="#tech-stack">Tech Stack</a>
+  •
+  <a href="#github-stats">GitHub Stats</a>
+  •
+  <a href="#contacto">Contacto</a>
+</p>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 💻 En formación como **Frontend Developer**
-- 🌱 Actualmente aprendiendo **Angular**
-- 📊 Interesado en **Data Analytics, Big Data y Data Science**
-- 🎯 Enfocado en crear soluciones digitales con buena experiencia de usuario
-- 📚 Comprometido con el aprendizaje continuo y la mejora constante
+Soy un desarrollador en formación con interés en la creación de interfaces web modernas, responsivas y centradas en el usuario.
+
+Actualmente estoy fortaleciendo mis habilidades en desarrollo frontend mientras complemento mi perfil con conocimientos en análisis de datos, visualización de información y buenas prácticas de diseño UI/UX.
+
+Me interesa construir productos digitales útiles, claros y eficientes, combinando tecnología, experiencia de usuario y aprendizaje continuo.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 💼 Enfoque profesional
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 💻 Desarrollo frontend con bases sólidas en HTML, CSS, JavaScript y TypeScript
+- 🌱 Aprendiendo Angular y fortaleciendo arquitectura de aplicaciones web
+- 📊 Interés en Data Analytics, visualización de datos y soluciones orientadas a información
+- 🎯 Enfocado en crear experiencias digitales funcionales, limpias y escalables
+- 📚 En aprendizaje continuo para crecer como desarrollador y aportar valor en proyectos reales
 
-### Actualmente aprendiendo
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+---
 
-### Data & Analytics
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF9800?style=for-the-badge)
-![Big Data](https://img.shields.io/badge/Big_Data-673AB7?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data_Science-009688?style=for-the-badge)
+## <a id="tech-stack"></a>🛠 Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="angular logo" />
+</div>
+
+### Tecnologías y herramientas
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, TypeScript |
+| **Frameworks / En aprendizaje** | Angular |
+| **Herramientas** | Git, GitHub |
+| **Data & Analytics** | Análisis de datos, Visualización de datos, Big Data, Data Science |
+| **Enfoque** | UI/UX, diseño responsivo, productos digitales orientados a usuario |
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
-- Angular
-- Buenas prácticas de desarrollo frontend
+- Angular y estructura de aplicaciones frontend
+- Buenas prácticas de desarrollo web
 - Diseño responsivo y experiencia de usuario
-- Integración entre desarrollo web y análisis de datos
+- Integración entre interfaces y análisis de datos
 
 ---
 
 ## 🎯 Objetivo profesional
 
-Seguir creciendo como desarrollador frontend y participar en proyectos donde pueda combinar interfaces web, experiencia de usuario y análisis de información para construir soluciones modernas e inteligentes.
+Seguir creciendo como desarrollador frontend y participar en proyectos donde pueda combinar desarrollo web, experiencia de usuario y análisis de información para construir soluciones modernas, funcionales e inteligentes.
 
 ---
 
 ## 🌟 Proyectos destacados
 
-Próximamente estaré agregando aquí algunos de mis proyectos más relevantes:
+Actualmente estoy organizando mis proyectos para mostrarlos aquí de forma más clara y profesional.
 
-- 🔹 Proyecto 1 – descripción breve
-- 🔹 Proyecto 2 – descripción breve
-- 🔹 Proyecto 3 – descripción breve
+Próximamente incluiré:
+- aplicaciones frontend
+- proyectos con diseño responsivo
+- ejercicios y soluciones con enfoque en datos
+- repositorios representativos de mi proceso de aprendizaje
 
 ---
 
-## 📫 Contacto
+## <a id="github-stats"></a>📈 GitHub Stats
 
-- **Email:** felipetorres200216@gmail.com
+| Estadísticas Generales | Lenguajes Más Usados |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api?username=FelTor2002&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats de Felipe Torres" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelTor2002&layout=compact&theme=github_dark&hide_border=true" alt="Top languages de Felipe Torres" /> |
+
+---
+
+## <a id="contacto"></a>📬 Contacto
+
+<div align="left">
+  <a href="mailto:felipetorres200216@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
 
 ---
 
