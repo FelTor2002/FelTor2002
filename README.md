@@ -119,7 +119,7 @@ Dashboard de analítica moderno desarrollado con **Angular** y **TypeScript**, e
 ## <a id="contacto"></a>📬 Contacto
 
 <div align="left">
-  <a href="mailto:felipetorres200216@gmail.com" target="_blank">
+  <a href="mailto:brayanfelipetorresagudelo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/felipetorres664" target="_blank">
