@@ -85,13 +85,14 @@ Seguir creciendo como desarrollador frontend y participar en proyectos donde pue
 
 ## 🌟 Proyectos destacados
 
-Actualmente estoy organizando mis proyectos para mostrarlos aquí de forma más clara y profesional.
+### 📊 Insight Board
 
-Próximamente incluiré:
-- aplicaciones frontend
-- proyectos con diseño responsivo
-- ejercicios y soluciones con enfoque en datos
-- repositorios representativos de mi proceso de aprendizaje
+Dashboard de analítica moderno desarrollado con **Angular** y **TypeScript**, enfocado en visualización de datos, métricas clave y experiencia de usuario.
+
+- 🔗 **Demo:** https://insight-board-swart.vercel.app
+- 💻 **Repositorio:** https://github.com/FelTor2002/insight-board
+- 🛠 **Stack:** Angular, TypeScript, CSS, Charts
+- ✨ **Enfoque:** dashboard responsive, KPIs, visualización de datos y UI tipo SaaS
 
 ---
 
