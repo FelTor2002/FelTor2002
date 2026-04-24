@@ -94,6 +94,15 @@ Dashboard de analítica moderno desarrollado con **Angular** y **TypeScript**, e
 - 🛠 **Stack:** Angular, TypeScript, CSS, Charts
 - ✨ **Enfoque:** dashboard responsive, KPIs, visualización de datos y UI tipo SaaS
 
+### ✅ TaskFlow
+
+Aplicación de gestión de tareas desarrollada con **Angular** y **TypeScript**, enfocada en CRUD, filtros, persistencia local y experiencia bilingüe.
+
+- 🔗 **Demo:** https://taskflow-nu-mocha.vercel.app
+- 💻 **Repositorio:** https://github.com/FelTor2002/taskflow
+- 🛠 **Stack:** Angular, TypeScript, CSS, Reactive Forms, LocalStorage
+- ✨ **Enfoque:** task manager responsive, i18n ES/EN, validaciones, modal UX y productividad
+
 ---
 
 ## <a id="github-stats"></a>📈 GitHub Stats
