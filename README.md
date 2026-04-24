@@ -1,10 +1,6 @@
 <h1 align="center">Hola, soy Felipe Torres 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FelTor2002&label=Profile%20views&color=6366f1&style=for-the-badge" alt="profile views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/FelTor2002/FelTor2002">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=60&duration=3500&pause=1000&color=22C55E&lines=Training+-+Junior+Developer;Interesado+en+Data+Analytics+y+UX;Construyendo+soluciones+digitales+modernas" alt="Typing SVG" />
   </a>
