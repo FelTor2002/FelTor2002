@@ -85,6 +85,14 @@ Seguir creciendo como desarrollador frontend y participar en proyectos donde pue
 
 ## 🌟 Proyectos destacados
 
+### 🌐 Portfolio Personal
+
+Portfolio profesional desarrollado con **Angular** y **TypeScript**, enfocado en presentar proyectos, habilidades y perfil como Frontend Developer.
+
+- 🔗 **Demo:** https://felipe-portfolio.vercel.app
+- 🛠 **Stack:** Angular, TypeScript, CSS, i18n
+- ✨ **Enfoque:** diseño moderno, multilenguaje (ES/EN), responsive y orientado a reclutadores
+
 ### 📊 Insight Board
 
 Dashboard de analítica moderno desarrollado con **Angular** y **TypeScript**, enfocado en visualización de datos, métricas clave y experiencia de usuario.
