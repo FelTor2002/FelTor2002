@@ -100,18 +100,18 @@ Dashboard de analítica moderno desarrollado con **Angular** y **TypeScript**, e
 
 | Estadísticas Generales | Lenguajes Más Usados |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=FelTor2002&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats de Felipe Torres" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelTor2002&layout=compact&theme=github_dark&hide_border=true" alt="Top languages de Felipe Torres" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=FelTor2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats de Felipe Torres" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelTor2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages de Felipe Torres" /> |
 
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelTor2002&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelTor2002&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelTor2002&theme=github-dark&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelTor2002&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
