@@ -93,6 +93,15 @@ Portfolio profesional desarrollado con **Angular** y **TypeScript**, enfocado en
 - 🛠 **Stack:** Angular, TypeScript, CSS, i18n
 - ✨ **Enfoque:** diseño moderno, multilenguaje (ES/EN), responsive y orientado a reclutadores
 
+### 🐔 Broiler Metrics
+
+Dashboard de analítica para pollos de engorde desarrollado con **Angular** y **TypeScript**, enfocado en carga de Excel, cálculo de KPIs productivos y visualización de datos operativos.
+
+- 🔗 **Demo:** https://broiler-metrics.vercel.app
+- 💻 **Repositorio:** https://github.com/FelTor2002/broiler-metrics
+- 🛠 **Stack:** Angular, TypeScript, CSS, XLSX, Charts, i18n
+- ✨ **Enfoque:** análisis avícola, métricas productivas, FCR, mortalidad, alertas y dashboard responsive
+
 ### 📊 Insight Board
 
 Dashboard de analítica moderno desarrollado con **Angular** y **TypeScript**, enfocado en visualización de datos, métricas clave y experiencia de usuario.
