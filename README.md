@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Felipe Torres 👋</h1>
+<h1 align="center">Hola, soy Felipe Torres</h1>
 
 <p align="center">
   <a href="https://github.com/FelTor2002/FelTor2002">
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy un **Training - Junior Developer** con interés en la creación de interfaces web modernas, responsivas y centradas en el usuario.
 
@@ -28,17 +28,17 @@ Me interesa construir productos digitales útiles, claros y eficientes, combinan
 
 ---
 
-## 💼 Enfoque profesional
+## Enfoque profesional
 
-- 💻 Desarrollo frontend con bases sólidas en HTML, CSS, JavaScript y TypeScript
-- 🌱 Trabajo con Angular y sigo fortaleciendo arquitectura de aplicaciones web
-- 📊 Interés en Data Analytics, visualización de datos y soluciones orientadas a información
-- 🎯 Enfocado en crear experiencias digitales funcionales, limpias y escalables
-- 📚 En mejora continua para crecer como desarrollador y aportar valor en proyectos reales
+- Desarrollo frontend con bases sólidas en HTML, CSS, JavaScript y TypeScript
+- Trabajo con Angular y sigo fortaleciendo arquitectura de aplicaciones web
+- Interés en Data Analytics, visualización de datos y soluciones orientadas a información
+- Enfocado en crear experiencias digitales funcionales, limpias y escalables
+- En mejora continua para crecer como desarrollador y aportar valor en proyectos reales
 
 ---
 
-## <a id="tech-stack"></a>🛠 Tech Stack
+## <a id="tech-stack"></a>Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo" />
@@ -68,7 +68,7 @@ Me interesa construir productos digitales útiles, claros y eficientes, combinan
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 - Angular y estructura de aplicaciones frontend
 - Buenas prácticas de desarrollo web
@@ -77,64 +77,64 @@ Me interesa construir productos digitales útiles, claros y eficientes, combinan
 
 ---
 
-## 🎯 Objetivo profesional
+## Objetivo profesional
 
 Seguir creciendo como desarrollador frontend y participar en proyectos donde pueda combinar desarrollo web, experiencia de usuario y análisis de información para construir soluciones modernas, funcionales e inteligentes.
 
 ---
 
-## 🌟 Proyectos destacados
+## Proyectos destacados
 
-### 🌐 Portfolio Personal
+### Portfolio Personal
 
 Portfolio profesional desarrollado con **Angular** y **TypeScript**, enfocado en presentar proyectos, habilidades y perfil como Frontend Developer.
 
-- 🔗 **Demo:** https://felipe-portfolio-kohl.vercel.app
-- 🛠 **Stack:** Angular, TypeScript, CSS, i18n
-- ✨ **Enfoque:** diseño moderno, multilenguaje (ES/EN), responsive y orientado a reclutadores
+- **Demo:** https://felipe-portfolio-kohl.vercel.app
+- **Stack:** Angular, TypeScript, CSS, i18n
+- **Enfoque:** diseño moderno, multilenguaje (ES/EN), responsive y orientado a reclutadores
 
-### 🐔 Broiler Metrics
+### Broiler Metrics
 
 Dashboard de analítica para pollos de engorde desarrollado con **Angular** y **TypeScript**, enfocado en carga de Excel, cálculo de KPIs productivos y visualización de datos operativos.
 
-- 🔗 **Demo:** https://broiler-metrics.vercel.app
-- 💻 **Repositorio:** https://github.com/FelTor2002/broiler-metrics
-- 🛠 **Stack:** Angular, TypeScript, CSS, XLSX, Charts, i18n
-- ✨ **Enfoque:** análisis avícola, métricas productivas, FCR, mortalidad, alertas y dashboard responsive
+- **Demo:** https://broiler-metrics.vercel.app
+- **Repositorio:** https://github.com/FelTor2002/broiler-metrics
+- **Stack:** Angular, TypeScript, CSS, XLSX, Charts, i18n
+- **Enfoque:** análisis avícola, métricas productivas, FCR, mortalidad, alertas y dashboard responsive
 
-### 📊 Insight Board
+### Insight Board
 
 Dashboard de analítica moderno desarrollado con **Angular** y **TypeScript**, enfocado en visualización de datos, métricas clave y experiencia de usuario.
 
-- 🔗 **Demo:** https://insight-board-swart.vercel.app
-- 💻 **Repositorio:** https://github.com/FelTor2002/insight-board
-- 🛠 **Stack:** Angular, TypeScript, CSS, Charts
-- ✨ **Enfoque:** dashboard responsive, KPIs, visualización de datos y UI tipo SaaS
+- **Demo:** https://insight-board-swart.vercel.app
+- **Repositorio:** https://github.com/FelTor2002/insight-board
+- **Stack:** Angular, TypeScript, CSS, Charts
+- **Enfoque:** dashboard responsive, KPIs, visualización de datos y UI tipo SaaS
 
-### ✅ TaskFlow
+### TaskFlow
 
 Aplicación de gestión de tareas desarrollada con **Angular** y **TypeScript**, enfocada en CRUD, filtros, persistencia local y experiencia bilingüe.
 
-- 🔗 **Demo:** https://taskflow-nu-mocha.vercel.app
-- 💻 **Repositorio:** https://github.com/FelTor2002/taskflow
-- 🛠 **Stack:** Angular, TypeScript, CSS, Reactive Forms, LocalStorage
-- ✨ **Enfoque:** task manager responsive, i18n ES/EN, validaciones, modal UX y productividad
+- **Demo:** https://taskflow-nu-mocha.vercel.app
+- **Repositorio:** https://github.com/FelTor2002/taskflow
+- **Stack:** Angular, TypeScript, CSS, Reactive Forms, LocalStorage
+- **Enfoque:** task manager responsive, i18n ES/EN, validaciones, modal UX y productividad
 
 ---
 
-## <a id="github-stats"></a>📈 GitHub Stats
+## <a id="github-stats"></a>GitHub Stats
 
 | Estadísticas Generales | Lenguajes Más Usados |
 | :--- | :--- |
 | <img src="https://github-readme-stats.vercel.app/api?username=FelTor2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats de Felipe Torres" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelTor2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages de Felipe Torres" /> |
 
-### 🔥 Streak Stats
+### Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelTor2002&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-### 📊 Activity Graph
+### Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelTor2002&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
@@ -142,7 +142,7 @@ Aplicación de gestión de tareas desarrollada con **Angular** y **TypeScript**,
 
 ---
 
-## <a id="contacto"></a>📬 Contacto
+## <a id="contacto"></a>Contacto
 
 <div align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brayanfelipetorresagudelo@gmail.com" target="_blank">
