@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/FelTor2002/FelTor2002">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=60&duration=3500&pause=1000&color=22C55E&lines=Training+-+Junior+Developer;Interesado+en+Data+Analytics+y+UX;Construyendo+soluciones+digitales+modernas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=60&duration=3500&pause=1000&color=22C55E&lines=Junior+Developer;Interesado+en+Data+Analytics+y+UX;Construyendo+soluciones+digitales+modernas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## Sobre mí
 
-Soy un **Training - Junior Developer** con interés en la creación de interfaces web modernas, responsivas y centradas en el usuario.
+Soy un **Junior Developer** con interés en la creación de interfaces web modernas, responsivas y centradas en el usuario.
 
 Actualmente estoy consolidando mis habilidades en desarrollo frontend mientras complemento mi perfil con conocimientos en análisis de datos, visualización de información y buenas prácticas de diseño UI/UX.
 
