@@ -126,12 +126,12 @@ Aplicación de gestión de tareas desarrollada con **Angular** y **TypeScript**,
 
 | Estadísticas Generales | Lenguajes Más Usados |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=FelTor2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats de Felipe Torres" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelTor2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages de Felipe Torres" /> |
+| <img src="https://github-stats-extended.vercel.app/api?username=FelTor2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats de Felipe Torres" /> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FelTor2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages de Felipe Torres" /> |
 
 ### Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelTor2002&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=FelTor2002&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ### Activity Graph
